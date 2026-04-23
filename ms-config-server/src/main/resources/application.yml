@@ -1,5 +1,5 @@
 server:
-  port: 7075
+  port: 6060
 
 spring:
   application:
@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/markmercado1/EventsProyectExamen.git # repositorio
+          uri: https://github.com/markmercado1/DeliveryProyect.git
           searchPaths:
             - config-data
           default-label: main
